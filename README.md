@@ -1,16 +1,32 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+Brixton Healthcare
 
-# Run and deploy your AI Studio app
+A modern and responsive healthcare website built to showcase medical services with a clean UI, smooth animations, and an intuitive user experience.
 
-This contains everything you need to run your app locally.
+Tech Stack
 
-View your app in AI Studio: https://ai.studio/apps/6b33a553-dd4a-49ab-88ed-eea4ee976da3
+- Vite
+- React
+- CSS3
+- JavaScript
 
-## Run Locally
+Features
 
-**Prerequisites:**  Node.js
+- Responsive design
+- Modern healthcare UI
+- Service showcase
+- Smooth animations
+- Fast performance
+
+Run Locally
+
+```bash
+npm install
+npm run dev
+```
+
+Author
+
+Surabhi Bhadkamkar
 
 
 1. Install dependencies:
