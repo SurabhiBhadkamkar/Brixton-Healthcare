@@ -1,0 +1,6 @@
+{
+  "name": "Brixton Healthcare",
+  "description": "Professional sleep therapy and medical wellness products catalog, searchable medical database, and secure patient portal for Brixton Healthcare.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
