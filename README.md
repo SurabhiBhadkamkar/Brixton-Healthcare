@@ -59,7 +59,7 @@ A modern and responsive healthcare website designed to provide a premium digital
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ```bash
 git clone https://github.com/your-username/Brisxton-Healthcare.git
@@ -69,7 +69,7 @@ cd Brisxton-Healthcare
 
 Open `index.html` in your browser.
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Brisxton-Healthcare/
@@ -82,11 +82,11 @@ Brisxton-Healthcare/
 └── README.md
 ```
 
-## 🎯 Purpose
+## Purpose
 
 This project demonstrates how a healthcare brand can establish a strong online presence using modern UI/UX principles, smooth animations, and responsive web design. Instead of relying on standard templates, the website delivers an engaging digital experience that builds trust and professionalism.
 
-## 👩‍💻 Author
+## Author
 
 **Surabhi Bhadkamkar**
 
