@@ -1,20 +1,20 @@
-# 🏥 Brisxton Healthcare
+# Brisxton Healthcare
 
 A modern and responsive healthcare website designed to provide a premium digital experience through smooth animations, elegant UI, and interactive user engagement. The project showcases healthcare services, products, company information, and contact details with a clean, professional interface.
 
-## 🌟 Features
+## Features
 
-- 🎨 Modern Healthcare UI/UX
-- 🚀 Smooth Scrolling Animations
-- 📱 Fully Responsive Design
-- ⚡ Interactive Page Transitions
-- 💊 Healthcare Services Showcase
-- 🏥 Medical Products Section
-- ℹ️ About Brisxton Healthcare
-- 📞 Contact & Inquiry Section
-- 🌐 Optimized for Performance
+- Modern Healthcare UI/UX
+- Smooth Scrolling Animations
+- Fully Responsive Design
+- Interactive Page Transitions
+- Healthcare Services Showcase
+- Medical Products Section
+- About Brisxton Healthcare
+- Contact & Inquiry Section
+- Optimized for Performance
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -24,9 +24,6 @@ A modern and responsive healthcare website designed to provide a premium digital
 - Responsive Design
 
 ---
-
-# 📸 Project Screenshots
-
 ## Home Page
 ![Home](./Screenshot/Screenshot%202026-06-28%20225305.png)
 
